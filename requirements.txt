@@ -1,0 +1,6 @@
+pyquery
+folium
+geopy
+streamlit_folium
+matplotlib
+openpyxl
